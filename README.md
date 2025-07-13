@@ -30,7 +30,7 @@ Once the addon is installed and enabled, you can find its controls in the 3D Vie
 
 For a complete walkthrough and demonstration of the addon's features, please watch the video guide on Behance.
 
-[![Watch the video guide on Behance][(https://www.behance.net/gallery/230245415/Text-Overlay-A-Blender-Addon-for-a-Smarter-Workflow)]
+https://www.behance.net/gallery/230245415/Text-Overlay-A-Blender-Addon-for-a-Smarter-Workflow
 
 **(Click the link above to watch the demo)**
 
